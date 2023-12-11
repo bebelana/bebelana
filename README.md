@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedora de software<br>Graduanda em Ciência da Computação <br>Focada em desenvolvimento back-end e novas tecnologias. 
+Desenvolvedora de software<br>Focada em desenvolvimento back-end e novas tecnologias. 
 
 
 ## 🌐 Socials:
